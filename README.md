@@ -4,45 +4,20 @@
 
 # Project name
 
-Short description of the project. Use gifs to illustrate how it works.
-
-Contents
-========
-
- * [Limitations](#limitations)
- * [Dependencies](#dependencies)
- * [Installation](#installation)
- * [Usage](#usage)
- * [Referencing](#referencing)
- * [Contact](#contact)
- * [License](#license)
-
-## Limitations
-
-What it can not do? What shall be improved? Any assumptions?
-
-## Dependencies
-
-What other tools the project is using
-
-## Installation
-
-How to install?
+These are presentations developed for teaching the course Statique I (Static I) at Ecole Polytechnique Fédérale de Lausanne to first year civil engineering students. 
 
 ## Usage
 
-How to use? Any examples?
+These presentations are intended for teaching a basic course on structural analysis of statically determinate structures to civil engineering students. The course duration is 2h / week over a 14 week semester. It is accompagnied by exercises of also 2h / week. 
 
 ## Referencing
 
-Please refer to the code and data by citing the paper:
+If you reuse one or several of the presentations or part of a presentation, please cite as Beyer K, Statique I, Lecture notes, School of Architecture, Civil and Environmental Engineering, Ecole Polytechnique Fédérale de Lausanne, Switzerland, 2024. 
 
 ## Contact
 
-Provide email address of the best contact person.
+katrin.beyer@epfl.ch
 
 ## License
-references to wiki eesd reprodisubility and licenses
-Please refer to the EESD wiki for reproducibility suggestions and choosing an appropriate license:
-https://wiki.epfl.ch/eesd/repro-guidelines
+The presentations are published under license CC BY-NC 4.0.
 
